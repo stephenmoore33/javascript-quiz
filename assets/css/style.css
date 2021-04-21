@@ -1,0 +1,10 @@
+/* color scheme */
+:root {
+  --background: #89D2DC;
+  --header: #101D42;
+  --btn-background: #101D42 ;
+  --btn-background-hover: #2E395A;
+  --menu-link-hover: #888EA1;
+  --index-background: #F0F9FB;
+  --footer-menu-background: #B5E3E9;
+}
